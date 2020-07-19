@@ -1,3 +1,7 @@
+# Analysis
+To calculate number of hawkers in SWCDC, a region in Singapore.
+
+# Signatures
 ## Why does this exist?
 I spent hours wrangling with gmail *signatures* of all things. Too fed up with the limited possibilities inside gmail, I decided to code my own.
 
