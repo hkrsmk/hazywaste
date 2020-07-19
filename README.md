@@ -14,5 +14,7 @@ I spent hours wrangling with gmail *signatures* of all things. Too fed up with t
 
 ## Other better editors
 For future reference.
+
 [Sigmail](https://github.com/antonreshetov/mysigmail)
+
 [Another repo I found](https://github.com/vinitshahdeo/Email-Signature-Template)
